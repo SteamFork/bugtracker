@@ -8,7 +8,6 @@ assignees: ''
 ---
 
 # BUG REPORT
-======================
 
 ## BEFORE SUBMITTING
 1. Make sure SteamFork is fully updated, and re-test if necessary.
